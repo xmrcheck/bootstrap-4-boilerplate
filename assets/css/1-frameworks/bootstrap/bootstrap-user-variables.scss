@@ -68,8 +68,8 @@
 //   "gray-dark":  $gray-800
 // ), $colors);
 //
-// $primary:       $blue !default;
-// $secondary:     $gray-600 !default;
+$primary:       #387DA9;
+$secondary:     #434C53;
 // $success:       $green !default;
 // $info:          $cyan !default;
 // $warning:       $yellow !default;
@@ -146,8 +146,8 @@
 // //
 // // Settings for the `<body>` element.
 //
-// $body-bg:                   $white !default;
-// $body-color:                $gray-900 !default;
+$body-bg:                   #2a333a;
+$body-color:                #fff;
 //
 // // Links
 // //
@@ -668,7 +668,7 @@
 // $card-border-color:                 rgba($black, .125) !default;
 // $card-inner-border-radius:          calc(#{$card-border-radius} - #{$card-border-width}) !default;
 // $card-cap-bg:                       rgba($black, .03) !default;
-// $card-bg:                           $white !default;
+$card-bg:                           #0E1316
 //
 // $card-img-overlay-padding:          1.25rem !default;
 //

@@ -1,4 +1,4 @@
-#Fusion (FSN) Price
+# Fusion (FSN) Price
 
 ## Quick Start
 ```
